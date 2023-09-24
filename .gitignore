@@ -16,6 +16,7 @@ node_modules
 # production
 /build
 /public/script.js
+/public/awe.js
 /geo
 /dist
 
